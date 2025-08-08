@@ -14,31 +14,31 @@ body {
     padding-top: 4vh;
 }
 body.korean-bg {
-    background: url('pro image/korea.jpg') center center/cover no-repeat fixed, linear-gradient(120deg, #f8ffae 0%, #43c6ac 100%);
+    background: url('photos/korea.jpg') center center/cover no-repeat fixed, linear-gradient(120deg, #f8ffae 0%, #43c6ac 100%);
 transition: background 0.7s cubic-bezier(0.4,0,0.2,1), background-image 0.7s cubic-bezier(0.4,0,0.2,1);
 }
 body.japanese-bg {
-    background: url('pro image/japan.jpg') center center/cover no-repeat fixed, linear-gradient(120deg, #f8ffae 0%, #43c6ac 100%);
+    background: url('photos/japan.jpg') center center/cover no-repeat fixed, linear-gradient(120deg, #f8ffae 0%, #43c6ac 100%);
 transition: background 0.7s cubic-bezier(0.4,0,0.2,1), background-image 0.7s cubic-bezier(0.4,0,0.2,1);
 }
 body.mandarin-bg {
-    background: url('pro image/china.jpg') center center/cover no-repeat fixed, linear-gradient(120deg, #f8ffae 0%, #43c6ac 100%);
+    background: url('photos/china(2).jpg') center center/cover no-repeat fixed, linear-gradient(120deg, #f8ffae 0%, #43c6ac 100%);
 transition: background 0.7s cubic-bezier(0.4,0,0.2,1), background-image 0.7s cubic-bezier(0.4,0,0.2,1);
 }
 body.arabic-bg {
-    background: url('pro image/arab.jpg') center center/cover no-repeat fixed, linear-gradient(120deg, #f8ffae 0%, #43c6ac 100%);
+    background: url('photos/dubai.jpg') center center/cover no-repeat fixed, linear-gradient(120deg, #f8ffae 0%, #43c6ac 100%);
 transition: background 0.7s cubic-bezier(0.4,0,0.2,1), background-image 0.7s cubic-bezier(0.4,0,0.2,1);
 }
 body.spanish-bg {
-    background: url('pro image/spanish.jpg') center center/cover no-repeat fixed, linear-gradient(120deg, #f8ffae 0%, #43c6ac 100%);
+    background: url('photos/spain.jpg') center center/cover no-repeat fixed, linear-gradient(120deg, #f8ffae 0%, #43c6ac 100%);
 transition: background 0.7s cubic-bezier(0.4,0,0.2,1), background-image 0.7s cubic-bezier(0.4,0,0.2,1);
 }
 body.french-bg {
-    background: url('pro image/french.jpg') center center/cover no-repeat fixed, linear-gradient(120deg, #f8ffae 0%, #43c6ac 100%);
+    background: url('photos/france.jpg') center center/cover no-repeat fixed, linear-gradient(120deg, #f8ffae 0%, #43c6ac 100%);
 transition: background 0.7s cubic-bezier(0.4,0,0.2,1), background-image 0.7s cubic-bezier(0.4,0,0.2,1);
 }
 body.thai-bg {
-    background: url('pro image/thai.jpg') center center/cover no-repeat fixed, linear-gradient(120deg, #f8ffae 0%, #43c6ac 100%);
+    background: url('photos/thali.jpg') center center/cover no-repeat fixed, linear-gradient(120deg, #f8ffae 0%, #43c6ac 100%);
 transition: background 0.7s cubic-bezier(0.4,0,0.2,1), background-image 0.7s cubic-bezier(0.4,0,0.2,1);
 }
 body.random-bg {
