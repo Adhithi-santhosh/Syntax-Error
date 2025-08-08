@@ -1,0 +1,38 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="style.css">
+    <title>Mimic - Playful Nonsense Generator</title>
+</head>
+<body>
+    <!-- Game Button and Area at the Top -->
+    <div style="width:100%;display:flex;justify-content:center;margin-bottom:1.5em;">
+        <button id="game-btn" style="padding:0.7em 2em;font-size:1.1em;">🎲 Play Language Game</button>
+    </div>
+    <div id="game-area" style="display:none;"></div>
+
+    <h1>Mimic</h1>
+    <form id="mimic-form" autocomplete="off">
+        <label for="language-select" style="font-weight:bold;">Language Inspiration:</label>
+        <select id="language-select" style="margin-bottom:1em;">
+            <option value="korean">Korean</option>
+            <option value="japanese">Japanese</option>
+            <option value="arabic">Arabic</option>
+            <option value="spanish">Spanish</option>
+            <option value="mandarin">Mandarin</option>
+            <option value="french">French</option>
+            <option value="thai">Thai</option>
+            <option value="random" selected>Random</option>
+        </select>
+        <br>
+        <label for="input">Enter the text</label>
+        <textarea id="input-text" rows="3" placeholder="Type your English sentence here..." required></textarea>
+        <br>
+        <button type="submit">Mimic It!</button>
+    </form>
+    <div class="mimic-output" id="output" style="display:none;"></div>
+    <script src="mic.js"></script>
+</body>
+</html>
