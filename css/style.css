@@ -22,7 +22,7 @@ body.japanese-bg {
 transition: background 0.7s cubic-bezier(0.4,0,0.2,1), background-image 0.7s cubic-bezier(0.4,0,0.2,1);
 }
 body.mandarin-bg {
-    background: url('photos/china(2).jpg') center center/cover no-repeat fixed, linear-gradient(120deg, #f8ffae 0%, #43c6ac 100%);
+    background: url('photos/china.jpg') center center/cover no-repeat fixed, linear-gradient(120deg, #f8ffae 0%, #43c6ac 100%);
 transition: background 0.7s cubic-bezier(0.4,0,0.2,1), background-image 0.7s cubic-bezier(0.4,0,0.2,1);
 }
 body.arabic-bg {
