@@ -56,13 +56,13 @@ Mimic is a fun text generator that creates stylized nonsense words imitating the
 
 
 # Screenshots (Add at least 3)
-![Screenshot1]C:\Users\user\Documents\GitHub\Syntax-Error\useless_project_temp\Screenshot 2025-08-09 041302.png
+![Screenshot1](s1.png)
 *Add caption explaining what this shows*
 
-![Screenshot2]C:\Users\user\Documents\GitHub\Syntax-Error\useless_project_temp\Screenshot 2025-08-09 041317.png
+![Screenshot2](s2.png)
 *Add caption explaining what this shows*
 
-![Screenshot3]C:\Users\user\Documents\GitHub\Syntax-Error\useless_project_temp\Screenshot 2025-08-09 041343.png
+![Screenshot3](s3.png)
 *Add caption explaining what this shows*
 
 ### Project Link
